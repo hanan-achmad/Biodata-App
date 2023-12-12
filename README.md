@@ -23,4 +23,5 @@ Biodata App adalah aplikasi yang menyediakan informasi menarik tentang berbagai 
 
 | List                              | Details                          |
 | :-------------------------------- | :------------------------------ |
-| ![Details](https://github.com/hanan-achmad/Biodata-App/assets/116619766/32281b6b-6c8c-4b3f-9830-b86ac6d35bd0)                                  | ![List](https://github.com/hanan-achmad/Biodata-App/assets/116619766/15ff436a-75f5-43b0-89bb-921d95353841)                                |
+| ![Details](https://github.com/hanan-achmad/Biodata-App/assets/116619766/6276845a-0dc3-4477-b035-99a1e8ba77ae)                                  | ![List](https://github.com/hanan-achmad/Biodata-App/assets/116619766/692e73cb-988b-485a-a322-920310f72455)                                |
+
